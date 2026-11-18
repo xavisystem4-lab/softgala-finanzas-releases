@@ -1,0 +1,7 @@
+{
+  "version": "1.2.0",
+  "file": "instaladores/SoftGalaFinanzas-Setup-1.2.0.exe",
+  "sha256": "8eeab13cbb03a63450bd9b3aa4170a38b2c44340958956f27a6557573ada7e3c",
+  "size": 59499013,
+  "notes": "- Nueva sección Clientes: alta de clientes e historial de compras (qué compró, cuánto abonó y cuándo, saldo, productos, cotizaciones y citas).\n- Abonos con fecha en ingresos y egresos; el saldo se actualiza solo y al llegar a cero se marca como cobrado/pagado.\n- Columna Saldo en las listas y en Excel; el panel cuenta los abonos como cobrado.\n- Todas las ventanas y avisos con el diseño de la aplicación (sin cuadros grises de Windows).\n- «Actualizar versión» ahora descarga desde el repositorio de actualizaciones y verifica la huella SHA-256 del instalador."
+}
