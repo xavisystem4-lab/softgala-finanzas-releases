@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "file": "instaladores/SoftGalaFinanzas-Setup.exe",
-  "sha256": "8eeab13cbb03a63450bd9b3aa4170a38b2c44340958956f27a6557573ada7e3c",
-  "size": 59499013,
-  "notes": "- Nueva sección Clientes: alta de clientes e historial de compras (qué compró, cuánto abonó y cuándo, saldo, productos, cotizaciones y citas).\n- Abonos con fecha en ingresos y egresos; el saldo se actualiza solo y al llegar a cero se marca como cobrado/pagado.\n- Columna Saldo en las listas y en Excel; el panel cuenta los abonos como cobrado.\n- Todas las ventanas y avisos con el diseño de la aplicación (sin cuadros grises de Windows).\n- «Actualizar versión» ahora descarga desde el repositorio de actualizaciones y verifica la huella SHA-256 del instalador."
+  "sha256": "ded59ad01b7f85e703604763dcc7660f76f2875a31bbf071cacf92c7b1a7260c",
+  "size": 59540501,
+  "notes": "- Nuevo ERP web: https://softgala-finanzas-erp.netlify.app — consulta y captura desde cualquier navegador o celular.\n- Sincronización con la nube (Firebase, sin costo): Configuración › Nube y ERP web. Se sincroniza sola cada 3 minutos y al abrir.\n- Indicador de nube en la barra superior (clic para sincronizar ahora).\n- Lo capturado en la web (ingresos, egresos, abonos, clientes, cotizaciones y citas) llega a la app, y viceversa.\n- Los comprobantes adjuntos se siguen guardando en la PC."
 }
