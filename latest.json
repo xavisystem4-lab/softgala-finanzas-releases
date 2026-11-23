@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "file": "instaladores/SoftGalaFinanzas-Setup.exe",
-  "sha256": "373e08138cc1565f723cf5c3bfa0f85f28602f95dd76cdb42fe21063876a989e",
-  "size": 59842679,
-  "notes": "- Nuevo formato de cotización «Propuesta económica» con el logotipo de SoftGala (PDF de la app e impresión del ERP web).\n- Campo «Lo que incluye · puntos importantes» (uno por renglón, sale con palomitas).\n- Forma de pago en 1, 2, 3 o 4 pagos con porcentaje, concepto, nota e importe calculado; condiciones de pago aparte.\n- Importe con letra, ciudad de emisión, firma (nombre y cargo) y texto de presentación configurables."
+  "sha256": "598e61bd9bea4464d93b3ded7c2100c6feb79ffb2e1a2016871423cc16695ed4",
+  "size": 59877046,
+  "notes": "- Usuarios y contraseñas enlazados entre la app de Windows y el ERP web: mismo usuario, misma contraseña.\n- Alta, restablecimiento y cambio de contraseña en la app se aplican en el ERP; lo cambiado en el ERP se reconoce al entrar a la app.\n- Usuarios creados en el ERP pueden entrar a la app (se crean en la PC al primer inicio de sesión).\n- ERP web: «Restablecer contraseña» en Usuarios y cambio obligatorio de la contraseña temporal.\n- ERP web: corregido «Cerrar sesión» en el celular (la confirmación quedaba detrás del menú)."
 }
