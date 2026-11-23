@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "file": "instaladores/SoftGalaFinanzas-Setup.exe",
-  "sha256": "5bb3e7f505272bfd6f640464acd75fa65efa906da49c27756f8a20eae251be20",
-  "size": 59537432,
-  "notes": "- Nuevo módulo Inversión (app de Windows y ERP web): alta de socios y registro de sus aportaciones a la marca con monto, fecha y, opcionalmente, para qué fue.\n- Total aportado por socio y general; las aportaciones se anulan con motivo (no se borran) y se exportan a Excel.\n- Independiente de ingresos y egresos. Se sincroniza entre la app y la web."
+  "sha256": "373e08138cc1565f723cf5c3bfa0f85f28602f95dd76cdb42fe21063876a989e",
+  "size": 59842679,
+  "notes": "- Nuevo formato de cotización «Propuesta económica» con el logotipo de SoftGala (PDF de la app e impresión del ERP web).\n- Campo «Lo que incluye · puntos importantes» (uno por renglón, sale con palomitas).\n- Forma de pago en 1, 2, 3 o 4 pagos con porcentaje, concepto, nota e importe calculado; condiciones de pago aparte.\n- Importe con letra, ciudad de emisión, firma (nombre y cargo) y texto de presentación configurables."
 }
